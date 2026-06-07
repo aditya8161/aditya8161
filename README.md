@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Aditya Sutar 👋
 
-<!--
-**aditya8161/aditya8161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final year M.Sc. Computer Science student from Pune.
+I build backend systems using Java and Spring Boot.
 
-Here are some ideas to get you started:
+## What I work with
+- Java 17, Spring Boot, Spring Security
+- Apache Kafka, Redis, Docker
+- MySQL, Spring Data JPA
+- Spring AI, Gemini API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I built
+- **ResumeAnalyzer** — AI resume scoring using Gemini API + Kafka async pipeline
+- **EBookShelf** — Secure PDF library, content protection using PDF.js
+- **PageVault** — Ebook platform with Spring AI recommendations
+
+## Currently
+- Learning Docker and System Design
+- Solving DSA on LeetCode daily
+- Looking for Java Backend / Software Developer role
+
+## Contact
+- Email: adityasutar8161@gmail.com
+- LinkedIn: linkedin.com/in/aditya-sutar
+- Portfolio: aditya8161.github.io/MyPortfolio
