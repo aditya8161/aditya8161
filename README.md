@@ -1,25 +1,92 @@
-# Hi, I'm Aditya Sutar 👋
+<h1 align="center">Hi 👋, I'm Aditya Sutar</h1>
+<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | Building Scalable Systems</h3>
 
-Final year M.Sc. Computer Science student from Pune.
-I build backend systems using Java and Spring Boot.
+<p align="center">
+  <a href="https://github.com/aditya8161">
+    <img src="https://img.shields.io/github/followers/aditya8161?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="mailto:adityasutar8161@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/adityasutar18">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://aditya8161.github.io/MyPortfolio/MyPortfolio.html">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
-## What I work with
-- Java 17, Spring Boot, Spring Security
-- Apache Kafka, Redis, Docker
-- MySQL, Spring Data JPA
-- Spring AI, Gemini API
+---
 
-## Projects I built
-- **ResumeAnalyzer** — AI resume scoring using Gemini API + Kafka async pipeline
-- **EBookShelf** — Secure PDF library, content protection using PDF.js
-- **PageVault** — Ebook platform with Spring AI recommendations
+## 🚀 About Me
 
-## Currently
-- Learning Docker and System Design
-- Solving DSA on LeetCode daily
-- Looking for Java Backend / Software Developer role
+🎓 Final Year M.Sc. Computer Science Student
 
-## Contact
-- Email: adityasutar8161@gmail.com
-- LinkedIn: linkedin.com/in/aditya-sutar
-- Portfolio: aditya8161.github.io/MyPortfolio
+💻 Java Backend Developer passionate about designing scalable and production-ready applications.
+
+⚡ Experienced in building Microservices, REST APIs, Event-Driven Systems, and AI-powered backend solutions.
+
+🔥 Currently exploring:
+- Distributed Systems
+- System Design
+- Cloud & DevOps
+- AI Integration with Spring AI & Gemini API
+
+🏆 Academic Rank Holder (2nd Rank in M.Sc. First Year)
+
+🧩 Solved 80+ LeetCode Problems across DSA topics.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,mysql,postgresql" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Microservices
+- Spring AI
+
+### Messaging & Caching
+
+<p>
+<img src="https://skillicons.dev/icons?i=redis" />
+</p>
+
+- Apache Kafka
+- Redis
+- Caffeine Cache
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea" />
+</p>
+
+- Docker
+- GitHub Actions
+- Maven
+- Postman
+
+### Core Concepts
+
+```text
+✔ OOP
+✔ SOLID Principles
+✔ JWT Authentication
+✔ Layered Architecture
+✔ System Design Basics
