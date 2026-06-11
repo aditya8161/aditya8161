@@ -2,8 +2,8 @@
 <h3 align="center">Java Backend Developer | Spring Boot Enthusiast | Building Scalable Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/aditya8161">
-    <img src="https://img.shields.io/github/followers/aditya8161?label=Followers&style=for-the-badge" />
+  <a href="https://leetcode.com/u/aditya_sutar_codes/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> 
   </a>
   <a href="mailto:adityasutar8161@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/adityasutar18">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://aditya8161.github.io/MyPortfolio/MyPortfolio.html">
+  <a href="https://iridescent-strudel-b9d53a.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
   </a>
 </p>
